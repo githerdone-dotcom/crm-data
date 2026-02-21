@@ -3,7 +3,9 @@ const cors = require("cors");
 const fs = require("fs");
 
 const app = express();
-app.use(cors());
+app.use(cors({
+  origin: "https://githerdone-dotcom.github.io"
+}));
 app.use(express.json());
 
 // Load your CRM data

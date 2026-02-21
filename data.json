@@ -1,1 +1,180 @@
-
+{
+  "bars": [
+    {
+      "id": 1,
+      "name": "bernies bar",
+      "address": "2825 s main st",
+      "number": "770 627 2297",
+      "website": "berniessocialbar.com",
+      "email": "owners@berniessocialbar.com"
+    },
+    {
+      "id": 2,
+      "name": "the cigar cellar",
+      "address": "2500 cobb parkway",
+      "number": "470 785 4941",
+      "website": "cigarcellar.net",
+      "email": "thecigarcellarkennesaw@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "keegans public house",
+      "address": "1625 ridenour blvd",
+      "number": "678 213 2460",
+      "website": "kennesaw.keegansirishpub.net",
+      "email": "keeganskennesaw@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "highlands grill kennesaw",
+      "address": "2615 g. busbee pkwy",
+      "number": "770 426 1515",
+      "website": "highlandskennesaw.com",
+      "email": "highlandsgrillkennesaw@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "mazzys sports bar",
+      "address": "3940 cherokee st",
+      "number": "770 693 9918",
+      "website": "mazzys.com",
+      "email": "kennesaw@mazzys.com"
+    },
+    {
+      "id": 6,
+      "name": "hudson grille",
+      "address": "2500 cobb place lane",
+      "number": "770 429 2500",
+      "website": "hudsongrille.com",
+      "email": null
+    },
+    {
+      "id": 7,
+      "name": "olde towne tavern",
+      "address": "2500 cobb pkway",
+      "number": "770 499 7878",
+      "website": "ottavern.com",
+      "email": null
+    },
+    {
+      "id": 8,
+      "name": "sidelines",
+      "address": "840 ernest barrett pkwy",
+      "number": "770 919 8688",
+      "website": "sidelineskennesaw.com",
+      "email": null
+    },
+    {
+      "id": 9,
+      "name": "twin peaks",
+      "address": "2475 busbee pkwy",
+      "number": "16783481605",
+      "website": "https://twinpeaksrestaurant.com/locations/kennesaw-ga",
+      "email": null
+    },
+    {
+      "id": 10,
+      "name": "owlz",
+      "address": "3655 cherokee st",
+      "number": "770 485 2729",
+      "website": null,
+      "email": null
+    },
+    {
+      "id": 11,
+      "name": "horned owl",
+      "address": "2765 s main st",
+      "number": "678 354 5005",
+      "website": "hornedowlbrewing.com",
+      "email": null
+    },
+    {
+      "id": 12,
+      "name": "ralphs tavern",
+      "address": "4290 bells ferry rd",
+      "number": "17709286136",
+      "website": "http://ralphstavernkennesaw.com/",
+      "email": null
+    },
+    {
+      "id": 13,
+      "name": "pizookah lounge",
+      "address": "4200 wade green rd",
+      "number": "17067021131",
+      "website": "https://www.pizookahlounge.com/",
+      "email": null
+    },
+    {
+      "id": 14,
+      "name": "marlows",
+      "address": "745 chastain rd",
+      "number": "17704258777",
+      "website": "https://www.marlowstavern.com/georgia/kennesaw",
+      "email": null
+    },
+    {
+      "id": 15,
+      "name": "cigar gallery club",
+      "address": "3600 cherokee st",
+      "number": "17705750678",
+      "website": "http://www.cigargalleryclub.com/",
+      "email": null
+    },
+    {
+      "id": 16,
+      "name": "sivas tavern",
+      "address": "780 cobb pll blvd",
+      "number": "17707959472",
+      "website": "http://www.sivaskennesaw.com/",
+      "email": null
+    },
+    {
+      "id": 17,
+      "name": "subourbon bar",
+      "address": "2718 summer st",
+      "number": "17707262163",
+      "website": "http://www.subourbonbar.com/",
+      "email": null
+    },
+    {
+      "id": 18,
+      "name": "kbs",
+      "address": "3600 cherokee st",
+      "number": "17705149900",
+      "website": "http://kbsgrillandpub.com/",
+      "email": null
+    },
+    {
+      "id": 19,
+      "name": "bar north",
+      "address": "3900 legacy park blvd",
+      "number": "16784038650",
+      "website": "https://www.barnorth.net/",
+      "email": null
+    },
+    {
+      "id": 20,
+      "name": "bar 44",
+      "address": "2755 canton road",
+      "number": "16784012714",
+      "website": "http://www.bar44atl.com/",
+      "email": null
+    },
+    {
+      "id": 21,
+      "name": "saddle bar",
+      "address": "5160 cowan road",
+      "number": null,
+      "website": null,
+      "email": null
+    },
+    {
+      "id": 22,
+      "name": "millers",
+      "address": "745 Chastain Rd NW, Kennesaw, GA 30144",
+      "number": "16782032003",
+      "website": "https://millersalehouse.com/locations/kennesaw/?utm_source=gmb&utm_medium=organic",
+      "email": null
+    }
+  ]
+}

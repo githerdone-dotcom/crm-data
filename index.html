@@ -1,1 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My CRM App</title>
+  <style>
+    body {
+      font-family: Arial;
+      padding: 20px;
+      background: #f4f4f4;
+    }
 
+    .card {
+      background: white;
+      padding: 15px;
+      margin: 10px 0;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+
+<body>
+
+<h1>My CRM List</h1>
+
+<div id="list"></div>
+
+<script>
+async function loadData() {
+
+  // 👇 replace with YOUR Render API URL
+  const response = await fetch("https://crm-data.onrender.com/data");
+
+  const data = await response.json();
+
+  const container = document.getElementById("list");
+  container.innerHTML = "";
+
+  data.forEach(person => {
+    const card = document.createElement("div");
+    card.className = "card";
+
+    card.innerHTML = `
+      <h3>${person.name}</h3>
+      <p>Email: ${person.email}</p>
+      <p>Company: ${person.company}</p>
+      <p>Status: ${person.status}</p>
+    `;
+
+    container.appendChild(card);
+  });
+}
+
+loadData();
+</script>
+
+</body>
+</html>
